@@ -1,0 +1,57 @@
+body {
+  text-align: center;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: rgb(189, 255, 131);
+}
+h1 {
+  font-size: 5em;
+  font-family: impact;
+  text-transform: uppercase;
+  margin: 0;
+  color: rgb(40, 48, 43)  ;
+}
+a {
+  display: inline-block;
+}
+#frod svg {
+  width: 240px;
+  height: 240px;
+}
+path {
+  fill-rule: evenodd;
+  clip-rule:evenodd
+}
+.st0{fill:#DD8746;}
+.st1{fill:#E4E7E8;}
+.st2{fill:#E7EAED;}
+.st3{fill:#E9820A;}
+.st4{fill:#B5F37B;}
+.st5{fill:#EA8209;}
+.st6{fill:#88D94A;}
+.st7{fill:#519421;}
+.st8{fill:#539421;}
+.st9{fill:#549422;}
+.st10{fill:#BAF880;}
+.st11{fill:#BBF981;}
+.st12{fill:#BDFC83;}
+.st13{fill:#BDFD83;}
+.st14{fill:#283035;}
+.st15{fill:#FBAB71;}
+.st16{fill:#FEB755;}
+.st17{fill:#FEB855;}
+.throat-inner, .throat-inner-highlight{fill:#FED8BD;}
+.st19{fill:#FEDBAD;}
+.artboard{fill: transparent;}
+.st21{fill:#66B32C;}
+.st22{fill:#67B32C;}
+.st23{fill:#67B42D;}
+.st24{fill:#326111;}
+.st25{fill:#336211;}
+
+.ribbit {
+  transform: scale(1.01);
+}
