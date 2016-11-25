@@ -1,3 +1,6 @@
+html {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
 body {
   text-align: center;
   margin: 0;
@@ -26,9 +29,11 @@ path {
   fill-rule: evenodd;
   clip-rule:evenodd
 }
+.artboard{fill: transparent;}
+.pupil {fill:#283035;}
+.pupil-highlight-left {fill:#E7EAED;}
+.pupil-highlight-right{fill:#E4E7E8;}
 .st0{fill:#DD8746;}
-.eye-highlight-2{fill:#E4E7E8;}
-.eye-highlight-1{fill:#E7EAED;}
 .st3{fill:#E9820A;}
 .st4{fill:#B5F37B;}
 .st5{fill:#EA8209;}
@@ -40,13 +45,11 @@ path {
 .st11{fill:#BBF981;}
 .st12{fill:#BDFC83;}
 .st13{fill:#BDFD83;}
-.eye{fill:#283035;}
 .st15{fill:#FBAB71;}
 .st16{fill:#FEB755;}
 .st17{fill:#FEB855;}
 .throat-inner, .throat-inner-highlight{fill:#FED8BD;}
 .st19{fill:#FEDBAD;}
-.artboard{fill: transparent;}
 .st21{fill:#66B32C;}
 .st22{fill:#67B32C;}
 .st23{fill:#67B42D;}
